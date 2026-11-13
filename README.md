@@ -28,5 +28,6 @@ Claude follows `CLAUDE.md`, and your style is in `STYLE_GUIDE.md`.
 | `scripts/overlays.py` | Renders captions, stickers (and optional titles) as a transparent layer |
 | `scripts/safezone.py` | Checks nothing sits in Instagram's no-text zones |
 | `scripts/composite.py` | Puts the layer on the original-quality footage |
+| `.claude/skills/eldailydad-video-edit/` | The editing skill (loads automatically in sessions with this repo; also upload it to claude.ai) |
 | `templates/` | Example edit list and overlay settings (from the timer video) |
 | `assets/` | Fonts and animation library used by the overlays |
