@@ -1,0 +1,129 @@
+{
+ "title": "La magia del timer con toddlers",
+ "format": "A home list",
+ "sources": {
+  "A": "raw/IMG_0435.mov",
+  "B": "raw/IMG_0436.MOV"
+ },
+ "segments": [
+  {
+   "src": "A",
+   "in": 5.45,
+   "out": 7.05,
+   "role": "HOOK (lean-in)",
+   "line": "Nadie me dijo esto."
+  },
+  {
+   "src": "A",
+   "in": 17.6,
+   "out": 19.45,
+   "role": "TITLE",
+   "line": "La magia del timer con toddlers."
+  },
+  {
+   "src": "B",
+   "in": 28.23,
+   "out": 34.35,
+   "role": "INTRO",
+   "line": "Como a los dos años, a los niños les pasa un switch. De repente se creen súper independientes y quieren controlar todo."
+  },
+  {
+   "src": "B",
+   "in": 71.61,
+   "out": 78.7,
+   "role": "1",
+   "line": "Uno, dale opciones. En vez de decir vamos al cuarto, dile vamos corriendo o vamos caminando. Eso nos funcionó por mucho tiempo."
+  },
+  {
+   "src": "B",
+   "in": 89.86,
+   "out": 92.4,
+   "role": "2",
+   "line": "Dos, para cambiar de actividad, pon un timer."
+  },
+  {
+   "src": "B",
+   "in": 101.23,
+   "out": 102.9,
+   "role": "2",
+   "line": "Porque nunca se quiere ir del parque,"
+  },
+  {
+   "src": "B",
+   "in": 104.83,
+   "out": 106.15,
+   "role": "2",
+   "line": "no quiere salir de la casa,"
+  },
+  {
+   "src": "B",
+   "in": 108.67,
+   "out": 110.55,
+   "role": "2",
+   "line": "y cuando salimos, no quiere volver."
+  },
+  {
+   "src": "B",
+   "in": 163.3,
+   "out": 167.95,
+   "role": "2",
+   "line": "Ahora le digo: ok Santi, cuando se termine el timer, nos vamos para la casa o nos ponemos los zapatos."
+  },
+  {
+   "src": "B",
+   "in": 210.4,
+   "out": 215.88,
+   "role": "3",
+   "line": "Tres, deja que lo apague. Ese es el truco. Él solito lo apaga y hace lo que acordamos."
+  },
+  {
+   "src": "B",
+   "in": 229.58,
+   "out": 235.52,
+   "role": "4",
+   "line": "Cuatro, no tiene que ser largo. Él mismo me pide un timer, le pongo diez segundos y cuando termina funciona perfecto."
+  },
+  {
+   "src": "B",
+   "in": 248.67,
+   "out": 251.18,
+   "role": "5",
+   "line": "Cinco, úsalo para compartir con otros niños."
+  },
+  {
+   "src": "B",
+   "in": 261.01,
+   "out": 263.33,
+   "role": "5",
+   "line": "Turnos con tiempo, y que ellos decidan cuánto es el tiempo."
+  },
+  {
+   "src": "B",
+   "in": 266.49,
+   "out": 270.38,
+   "role": "5",
+   "line": "Muchas veces en el parque le ponemos un minuto y eso funciona perfecto para cada niño."
+  },
+  {
+   "src": "B",
+   "in": 275.67,
+   "out": 279.17,
+   "role": "CTA share",
+   "line": "Mándaselo a ese papá que pelea cada día para salir de la casa o el parque."
+  },
+  {
+   "src": "B",
+   "in": 288.24,
+   "out": 290.7,
+   "role": "CTA comment",
+   "line": "Dime, ¿tú qué truco usas para tu toddler?"
+  },
+  {
+   "src": "B",
+   "in": 308.8,
+   "out": 312.4,
+   "role": "ENDING gag",
+   "line": "(silent) grabs the Coke and walks out of frame"
+  }
+ ]
+}

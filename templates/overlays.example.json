@@ -1,0 +1,61 @@
+{
+ "duration": 58.67,
+ "captions": "captions.srt",
+ "highlight": [
+  "uno,",
+  "dos,",
+  "tres,",
+  "cuatro,",
+  "cinco,",
+  "diez segundos",
+  "un minuto"
+ ],
+ "skip_captions": [
+  "nadie me dijo esto"
+ ],
+ "stickers": [
+  {
+   "type": "share",
+   "start": 48.96,
+   "end": 52.31
+  },
+  {
+   "type": "comment",
+   "start": 52.41,
+   "end": 54.81
+  },
+  {
+   "type": "clock",
+   "start": 54.91,
+   "end": 58.67,
+   "text": "¡SE ACABÓ<br>EL TIMER!"
+  }
+ ],
+ "titles_example_when_finishing_here": {
+  "series": {
+   "start": 0,
+   "end": 3.45,
+   "line": "Cosas importantes de bebés",
+   "age": "2-4 años",
+   "click_at": 1.02
+  },
+  "topic": {
+   "start": 1.6,
+   "end": 54.82,
+   "word1": "EL TIMER",
+   "word2": "CON TODDLERS"
+  },
+  "subs": [
+   {
+    "start": 9.57,
+    "end": 16.66,
+    "text": "1. DALE OPCIONES"
+   },
+   {
+    "start": 16.66,
+    "end": 28.72,
+    "text": "2. PON UN TIMER"
+   }
+  ]
+ }
+}
