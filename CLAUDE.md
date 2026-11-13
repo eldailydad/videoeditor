@@ -8,10 +8,12 @@ pacing numbers, colours, fonts and caption systems measured from his published v
 system FFmpeg at `/usr/bin/ffmpeg` (has libx264/libx265/zscale), gdown. If any are missing run
 `bash setup.sh`. Use `/usr/bin/ffmpeg`, never a self-built one without libx264.
 
-**Source of footage:** his Google Drive folder (shared as "anyone with the link"):
-`https://drive.google.com/drive/folders/1LAQbYyA7RqEwRtK8dnKPhYAyuxpMinlh`
-- `References/` = published videos (style references, not to edit)
-- raw footage for a new video = a subfolder he names, e.g. `Raw/timer-toddlers/`, or loose files he points to.
+**Source of footage:** Google Drive folders shared as "anyone with the link".
+- References folder (published videos = style references, not to edit):
+  `https://drive.google.com/drive/folders/1LAQbYyA7RqEwRtK8dnKPhYAyuxpMinlh`
+  It also holds the raw clips of the first edited video (IMG_0435.mov, IMG_0436.MOV).
+- Raw footage for a new video: ask him for the folder link (or subfolder name) if he hasn't given it.
+  Use `fetch_drive.py --list` first and download only the clips for this video.
 
 Work in `~/videos/<short-name>/` (raw/, work/, out/). Deliverables he must download go in
 `/home/user/deliveries/<short-name>/` and are sent with SendUserFile. The machine is temporary:
